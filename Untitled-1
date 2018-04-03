@@ -4,7 +4,7 @@
 <body>
   <script>
     'use strict';
-    for (var i = 0; i < 70
+    for (var i = 0; i < 50
     ; i++) {
       alert(i); // 0, 1, 2
     }
